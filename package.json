@@ -1,8 +1,8 @@
 {
   "name": "solucion-mod-2",
   "version": "1.0.0",
-  "description": "Nodejs",
-  "main": "index.js","index.html",
+  "description": "'Mi primera pagina'",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
