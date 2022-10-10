@@ -1,0 +1,536 @@
+@Perfil delantero {
+	familia de fuentes: 'Linearicons-Free';
+	src:url('fuentes/Linearicons-Free.eot?w118d');
+	src:url('fuentes/Linearicons-Free.eot?#iefixw118d') format('embedded-opentype'),
+		url('fuentes/Linearicons-Free.woff2?w118d') format('woff2'),
+		url('fuentes/Linearicons-Free.woff?w118d') format('woff'),
+		url('fuentes/Linearicons-Free.ttf?w118d') format('truetype'),
+		url('fuentes/Linearicons-Free.svg?w118d#Linearicons-Free') format('svg');
+	peso de fuente: normal;
+	estilo de fuente: normal;
+}
+
+.lnr {
+	familia de fuentes: 'Linearicons-Free';
+	hablar: ninguno;
+	estilo de fuente: normal;
+	peso de fuente: normal;
+	variante de fuente: normal;
+	transformación de texto: ninguno;
+	altura de línea: 1;
+
+	/* Mejor representación de fuentes =========== */
+	-webkit-font-smoothing: suavizado;
+	-moz-osx-font-smoothing: escala de grises;
+}
+
+.lnr-home:antes de {
+	contenido: "\e800";
+}
+.lnr-apartamento:antes de {
+	contenido: "\e801";
+}
+.lnr-pencil:antes de {
+	contenido: "\e802";
+}
+.lnr-varita-mágica:antes de {
+	contenido: "\e803";
+}
+.lnr-drop:antes de {
+	contenido: "\e804";
+}
+.lnr-encendedor:antes de {
+	contenido: "\e805";
+}
+.lnr-poop:antes de {
+	contenido: "\e806";
+}
+.lnr-sun:antes de {
+	contenido: "\e807";
+}
+.lnr-moon:antes de {
+	contenido: "\e808";
+}
+.lnr-cloud:antes de {
+	contenido: "\e809";
+}
+.lnr-cloud-upload:antes de {
+	contenido: "\e80a";
+}
+.lnr-cloud-download:antes de {
+	contenido: "\e80b";
+}
+.lnr-cloud-sync:antes de {
+	contenido: "\e80c";
+}
+.lnr-cloud-check:antes de {
+	contenido: "\e80d";
+}
+.lnr-base de datos:antes de {
+	contenido: "\e80e";
+}
+.lnr-bloqueo:antes de {
+	contenido: "\e80f";
+}
+.lnr-cog:antes {
+	contenido: "\e810";
+}
+.lnr-basura:antes de {
+	contenido: "\e811";
+}
+.lnr-dice:antes {
+	contenido: "\e812";
+}
+.lnr-heart:antes de {
+	contenido: "\e813";
+}
+.lnr-estrella:antes de {
+	contenido: "\e814";
+}
+.lnr-star-half:antes de {
+	contenido: "\e815";
+}
+.lnr-estrella-vacío:antes de {
+	contenido: "\e816";
+}
+.lnr-flag:antes de {
+	contenido: "\e817";
+}
+.lnr-sobre:antes de {
+	contenido: "\e818";
+}
+.lnr-clip:antes de {
+	contenido: "\e819";
+}
+.lnr-bandeja de entrada:antes de {
+	contenido: "\e81a";
+}
+.lnr-eye:antes de {
+	contenido: "\e81b";
+}
+.lnr-impresora:antes de {
+	contenido: "\e81c";
+}
+.lnr-archivo-vacío:antes de {
+	contenido: "\e81d";
+}
+.lnr-file-add:antes de {
+	contenido: "\e81e";
+}
+.lnr-enter:antes de {
+	contenido: "\e81f";
+}
+.lnr-salir:antes de {
+	contenido: "\e820";
+}
+.lnr-graduation-hat:antes de {
+	contenido: "\e821";
+}
+.lnr-licencia:antes de {
+	contenido: "\e822";
+}
+.lnr-nota-musical:antes de {
+	contenido: "\e823";
+}
+.lnr-film-play:antes {
+	contenido: "\e824";
+}
+.lnr-camera-video:antes de {
+	contenido: "\e825";
+}
+.lnr-cámara:antes de {
+	contenido: "\e826";
+}
+.lnr-imagen: antes {
+	contenido: "\e827";
+}
+.lnr-libro:antes de {
+	contenido: "\e828";
+}
+.lnr-marcador:antes de {
+	contenido: "\e829";
+}
+.lnr-usuario:antes de {
+	contenido: "\e82a";
+}
+.lnr-usuarios:antes de {
+	contenido: "\e82b";
+}
+.lnr-shirt:antes de {
+	contenido: "\e82c";
+}
+.lnr-tienda:antes de {
+	contenido: "\e82d";
+}
+.lnr-cart:antes de {
+	contenido: "\e82e";
+}
+.lnr-tag:antes de {
+	contenido: "\e82f";
+}
+.lnr-teléfono-auricular:antes de {
+	contenido: "\e830";
+}
+.lnr-teléfono:antes de {
+	contenido: "\e831";
+}
+.lnr-chincheta:antes de {
+	contenido: "\e832";
+}
+.lnr-mapa-marcador:antes de {
+	contenido: "\e833";
+}
+.lnr-mapa:antes de {
+	contenido: "\e834";
+}
+.lnr-ubicación:antes de {
+	contenido: "\e835";
+}
+.lnr-calendar-full:antes de {
+	contenido: "\e836";
+}
+.lnr-teclado:antes de {
+	contenido: "\e837";
+}
+.lnr-corrector ortográfico:antes de {
+	contenido: "\e838";
+}
+.lnr-pantalla:antes de {
+	contenido: "\e839";
+}
+.lnr-teléfono inteligente:antes de {
+	contenido: "\e83a";
+}
+.lnr-tablet:antes de {
+	contenido: "\e83b";
+}
+.lnr-portátil:antes de {
+	contenido: "\e83c";
+}
+.lnr-laptop-phone:antes de {
+	contenido: "\e83d";
+}
+.lnr-power-switch:antes de {
+	contenido: "\e83e";
+}
+.lnr-burbuja:antes de {
+	contenido: "\e83f";
+}
+.lnr-heart-pulse:antes de {
+	contenido: "\e840";
+}
+.lnr-construcción: antes de {
+	contenido: "\e841";
+}
+.lnr-gráfico-circular:antes de {
+	contenido: "\e842";
+}
+.lnr-chart-bars:antes de {
+	contenido: "\e843";
+}
+.lnr-regalo:antes de {
+	contenido: "\e844";
+}
+.lnr-diamante:antes de {
+	contenido: "\e845";
+}
+.lnr-linearicons:antes de {
+	contenido: "\e846";
+}
+.lnr-cena: antes {
+	contenido: "\e847";
+}
+.lnr-coffee-cup:antes de {
+	contenido: "\e848";
+}
+.lnr-hoja:antes de {
+	contenido: "\e849";
+}
+.lnr-paw:antes de {
+	contenido: "\e84a";
+}
+.lnr-cohete:antes de {
+	contenido: "\e84b";
+}
+.lnr-maletín:antes de {
+	contenido: "\e84c";
+}
+.lnr-bus:antes de {
+	contenido: "\e84d";
+}
+.lnr-car:antes {
+	contenido: "\e84e";
+}
+.lnr-tren:antes de {
+	contenido: "\e84f";
+}
+.lnr-bicicleta:antes de {
+	contenido: "\e850";
+}
+.lnr-silla de ruedas:antes de {
+	contenido: "\e851";
+}
+.lnr-select:antes de {
+	contenido: "\e852";
+}
+.lnr-tierra:antes de {
+	contenido: "\e853";
+}
+.lnr-smile:antes de {
+	contenido: "\e854";
+}
+.lnr-triste: antes {
+	contenido: "\e855";
+}
+.lnr-neutral:antes de {
+	contenido: "\e856";
+}
+.lnr-bigote:antes de {
+	contenido: "\e857";
+}
+.lnr-alarm:antes de {
+	contenido: "\e858";
+}
+.lnr-megáfono:antes de {
+	contenido: "\e859";
+}
+.lnr-volumen-alto:antes de {
+	contenido: "\e85a";
+}
+.lnr-volumen-medio:antes de {
+	contenido: "\e85b";
+}
+.lnr-volumen-bajo:antes de {
+	contenido: "\e85c";
+}
+.lnr-volumen:antes de {
+	contenido: "\e85d";
+}
+.lnr-mic:antes de {
+	contenido: "\e85e";
+}
+.lnr-reloj de arena:antes de {
+	contenido: "\e85f";
+}
+.lnr-deshacer:antes de {
+	contenido: "\e860";
+}
+.lnr-rehacer:antes de {
+	contenido: "\e861";
+}
+.lnr-sync:antes de {
+	contenido: "\e862";
+}
+.lnr-historia: antes {
+	contenido: "\e863";
+}
+.lnr-reloj:antes de {
+	contenido: "\e864";
+}
+.lnr-descarga:antes de {
+	contenido: "\e865";
+}
+.lnr-subir:antes de {
+	contenido: "\e866";
+}
+.lnr-enter-down:antes de {
+	contenido: "\e867";
+}
+.lnr-salir-arriba:antes de {
+	contenido: "\e868";
+}
+.lnr-bug:antes de {
+	contenido: "\e869";
+}
+.lnr-código:antes de {
+	contenido: "\e86a";
+}
+.lnr-enlace:antes de {
+	contenido: "\e86b";
+}
+.lnr-unlink:antes de {
+	contenido: "\e86c";
+}
+.lnr-thumbs-up:antes de {
+	contenido: "\e86d";
+}
+.lnr-thumbs-down:antes de {
+	contenido: "\e86e";
+}
+.lnr-lupa:antes de {
+	contenido: "\e86f";
+}
+.lnr-cross:antes de {
+	contenido: "\e870";
+}
+.lnr-menu:antes de {
+	contenido: "\e871";
+}
+.lnr-list:antes de {
+	contenido: "\e872";
+}
+.lnr-chevron-up:antes de {
+	contenido: "\e873";
+}
+.lnr-chevron-down:antes de {
+	contenido: "\e874";
+}
+.lnr-chevron-left:antes de {
+	contenido: "\e875";
+}
+.lnr-chevron-right:antes de {
+	contenido: "\e876";
+}
+.lnr-flecha-arriba:antes de {
+	contenido: "\e877";
+}
+.lnr-flecha-abajo:antes de {
+	contenido: "\e878";
+}
+.lnr-flecha-izquierda:antes de {
+	contenido: "\e879";
+}
+.lnr-flecha-derecha:antes de {
+	contenido: "\e87a";
+}
+.lnr-mover:antes de {
+	contenido: "\e87b";
+}
+.lnr-advertencia:antes de {
+	contenido: "\e87c";
+}
+.lnr-pregunta-círculo:antes de {
+	contenido: "\e87d";
+}
+.lnr-menu-circle:antes de {
+	contenido: "\e87e";
+}
+.lnr-checkmark-circle:before {
+	contenido: "\e87f";
+}
+.lnr-cross-circle:antes de {
+	contenido: "\e880";
+}
+.lnr-más-círculo:antes de {
+	contenido: "\e881";
+}
+.lnr-círculo-menos:antes de {
+	contenido: "\e882";
+}
+.lnr-arrow-up-circle:before {
+	contenido: "\e883";
+}
+.lnr-arrow-down-circle:before {
+	contenido: "\e884";
+}
+.lnr-arrow-left-circle:before {
+	contenido: "\e885";
+}
+.lnr-arrow-right-circle:before {
+	contenido: "\e886";
+}
+.lnr-chevron-up-circle:before {
+	contenido: "\e887";
+}
+.lnr-chevron-down-circle:before {
+	contenido: "\e888";
+}
+.lnr-chevron-left-circle:before {
+	contenido: "\e889";
+}
+.lnr-chevron-right-circle:before {
+	contenido: "\e88a";
+}
+.lnr-crop:antes de {
+	contenido: "\e88b";
+}
+.lnr-frame-expand:antes de {
+	contenido: "\e88c";
+}
+.lnr-frame-contrato:antes de {
+	contenido: "\e88d";
+}
+.lnr-capas:antes de {
+	contenido: "\e88e";
+}
+.lnr-funnel:before {
+	contenido: "\e88f";
+}
+.lnr-text-format:antes de {
+	contenido: "\e890";
+}
+.lnr-text-format-remove:before {
+	contenido: "\e891";
+}
+.lnr-texto-tamaño:antes de {
+	contenido: "\e892";
+}
+.lnr-bold:antes de {
+	contenido: "\e893";
+}
+.lnr-cursiva:antes de {
+	contenido: "\e894";
+}
+.lnr-subrayado:antes de {
+	contenido: "\e895";
+}
+.lnr-tachado:antes de {
+	contenido: "\e896";
+}
+.lnr-highlight:antes de {
+	contenido: "\e897";
+}
+.lnr-text-align-left:antes de {
+	contenido: "\e898";
+}
+.lnr-text-align-center:antes de {
+	contenido: "\e899";
+}
+.lnr-text-align-right:antes de {
+	contenido: "\e89a";
+}
+.lnr-text-align-justify:before {
+	contenido: "\e89b";
+}
+.lnr-line-spacing:before {
+	contenido: "\e89c";
+}
+.lnr-indent-aumento:antes de {
+	contenido: "\e89d";
+}
+.lnr-indent-decrease:before {
+	contenido: "\e89e";
+}
+.lnr-pilcrow:antes de {
+	contenido: "\e89f";
+}
+.lnr-direction-ltr:antes de {
+	contenido: "\e8a0";
+}
+.lnr-direction-rtl:antes de {
+	contenido: "\e8a1";
+}
+.lnr-salto-de-página:antes de {
+	contenido: "\e8a2";
+}
+.lnr-sort-alpha-asc:antes de {
+	contenido: "\e8a3";
+}
+.lnr-ordenar-cantidad-asc:antes de {
+	contenido: "\e8a4";
+}
+.lnr-mano:antes de {
+	contenido: "\e8a5";
+}
+.lnr-puntero-arriba:antes de {
+	contenido: "\e8a6";
+}
+.lnr-puntero-derecha:antes de {
+	contenido: "\e8a7";
+}
+.lnr-puntero-abajo:antes de {
+	contenido: "\e8a8";
+}
+.lnr-puntero-izquierda:antes de {
+	contenido: "\e8a9";
+}
