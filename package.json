@@ -1,0 +1,19 @@
+{
+  "name": "solucion-mod-2",
+  "version": "1.0.0",
+  "description": "Nodejs",
+  "main": "index.js","index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matias101010/Solucion-mod-2.git"
+  },
+  "author": "Matias ovejero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matias101010/Solucion-mod-2/issues"
+  },
+  "homepage": "https://github.com/matias101010/Solucion-mod-2#readme"
+}
