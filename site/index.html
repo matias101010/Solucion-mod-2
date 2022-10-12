@@ -1,12 +1,166 @@
  <!DOCTYPE html>
- <html>
+ <html lang="en">
  <head>
  	<meta charset="utf-8">
- 	<meta name="viewport" content="width=device-width, initial-scale=1">
- 	<title>hola courseera</title>
- </head>
- <body>
- <h1>hola coursera</h1>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+ 	
+    <link rel="stylesheet" href="styles.css">
+ 	<title>Peluqueria Estilo</title>
 
- </body>
- </html>
+
+  <style>
+   * {
+    box-sizing: border-box;
+    padding:  0;
+    margin: 0;
+  }
+          
+     
+    h1 {
+    color: darkgoldenrod;
+    text-align: center;
+    font-size: 80px;
+    font-family: Times,"Times New Roman",Georgia,serif;
+    font-weight: bolder;
+    text-transform: capitalize;
+    font-style: italic;
+    }
+
+
+
+     h3 {
+        
+        text-align: right;      
+        font-family: Times,"Times New Roman",Georgia,serif;
+        font-weight: bolder;
+        font-style: italic;
+        color: palegoldenrod;
+        opacity: .6;
+        background-color: lightcoral;      
+        border: 3px solid black;
+        float: left;
+        margin-right: 10px;
+    
+
+        }
+    #t1 {
+       position: relative;
+       top:  55px;
+       left: 308px;
+       width: 10%;
+       height: 30px;
+      
+    }
+     #t2 {
+       position: relative;
+       top:  50px;
+       left: 612px;
+       width: 10%;
+       height: 30px;
+     }
+    
+    
+    #t3 {
+       position: relative;
+       top:  50px;
+       left: 915px;
+       width: 10%;
+       height: 30px;
+   
+    }
+
+
+
+   
+    p {
+        text-align: left;
+        font-size: 12px;
+        font-family: Times,"Times New Roman",Georgia,serif;
+        font-weight: bolder;
+        font-style: italic;
+       color: darkgoldenrod;
+        background-color: white;
+        text-transform: uppercase;
+        border: 2px solid black;
+        padding: 30px 0px 30px 0px;
+       margin-top: 50px;
+       margin-right: 20px;
+       margin-left: 20px; 
+
+      
+      
+      }
+
+
+    .bg {
+      float:right;
+      width: 30%;
+      height: 150px;
+         
+    } 
+
+    .cg{ float:right;
+      width: 30%;
+      height: 150px;
+      padding: 30px 5px 30px 5px;
+      
+    
+    }  
+     
+    .dg { float:right;
+      width: 30%;
+      height: 150px;
+      margin-top: 23px;
+     
+    }
+  @media (max-width: 992px)  {
+    .col-lg-1{
+        width: 25%;
+    }
+  }
+
+   @media (min-width: 768) and (max-width: 991px)  {
+    .c{
+      
+    }
+  }
+
+   @media (min-width: ) and (max-width: 992px)  {
+    .c{
+      
+    }
+  }
+  
+  </style>
+</head>
+<body>
+  <h1>Peluqueria "Estilo"</h1>
+
+ 
+  <div class="row">     
+          <h3 id="t1">!Nosotros!</h3>
+              
+          <h3 id="t2">!Peluqeria!</h3>
+             
+
+          <h3 id="t3">!Precios!</h3>
+             
+  
+
+          <div class="col-lg-3">
+            <p class="bg">La peluqueria Kano lleva mas de 20 años de experiencia.Intentamos brindar el mejor servicio atencion y calidad-precio.Nuestra caracteristica principal nuestra variedad de cortes</p>
+          </div>
+
+          <div class="col-lg-3">
+             <p  class="cg">La peluueria cuenta con 10 peluqueros de alto nivel que te haran ver como tu lo quieras,ofrecemos tintura,corte de pelo,barba.</p>
+
+           </div>
+
+           <div class="col-lg-3">
+             <p  class="dg">
+              Los precios son los siguientes:corte$500,barba$200,tintura$1000.Horarios lunes a viernes de mañana 8 a 14 tarde 17 a 23,podes pagar en efectivo,tarjeta de credito o debito,mercado pago,nuestro contacto 2612334455
+             </p>
+            </div> 
+  </div>
+</body>
+</html>
